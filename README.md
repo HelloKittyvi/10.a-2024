@@ -1,4 +1,4 @@
 # 10.a-2024
 Progammēšana
-Pirmais labojums
 runrabbit
+Mana miļaka stunda programmesana
